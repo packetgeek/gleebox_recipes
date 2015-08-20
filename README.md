@@ -1,6 +1,8 @@
 # gleebox_recipes
 This is a collection of recipes and mods that I've inflicted on gleebox.  Keep in mind that I'm using gleebox in a manner not intended by its authors.  Unless otherwise noted, these are page commands that are added to gleebox by editing the glee.js and pagecmds.js files.  I've written these so that I can avoid having to use Yubnub and Quix, allowing me to run various commands without having connectivity to the Internet (e.g., I can still control the office lights).
 
+Please note that some of these are not my work.  Some are from unknown sources (some from the original browser extension).  I will attempt to give credit where possible.
+
 ## Concerning the Glee.Browser.openURL function
 When using the Glee.Browser.openURL function, it expects three arguments.
 * Arg 1 = whichever URL you want to call, doesn't have to be http: or https:
