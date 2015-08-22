@@ -6,6 +6,8 @@ I use three Gleebox commands when working with Wallabag:
 * /walla - opens the Wallabag landing page
 * /wb - opens my weekly script for generating "What have I read?" type messages
 
+You don't need to add all three but they're nice to have...
+
 ## /bag
 
 Add the following to glee.js:
