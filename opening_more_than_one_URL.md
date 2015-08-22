@@ -21,4 +21,6 @@ In pagecmds.js, add something like the following:
     Glee.close();
     };
 
-Note that only one of the openURL lines should have the third argument (i.e., focus) set to true.  The others should be set to false.
+Note that:
+* Only one of the openURL lines should have the third argument (i.e., focus) set to true.  The others should be set to false.
+* Gleebox will open the tabs in no particular order but it will focus on the page that you've declared.
