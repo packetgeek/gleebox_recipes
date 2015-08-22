@@ -4,3 +4,4 @@ These commands are implemented in the glee.js and pagecmds.js files, AFTER you'v
 
 When editing the glee.js file, the new commands should be entered somewhere after the "commands: [" line.  When editing the pagecmds.js file, the new entry can be made anywhere in the file (just not inside another command, obviously).
 
+See also: http://www.neighborhoodtechie.com/2015/05/adding-page-commands-to-gleebox.html
