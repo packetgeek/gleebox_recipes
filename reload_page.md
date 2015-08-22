@@ -18,4 +18,4 @@ In pagecmds.js, add the following:
     Glee.close();
     };
 
-Don't forget to restart Chrome before attempting to use this command.
+Above is pretty basic but sometimes useful.  It also hints at how other Javascript commands can be used in Gleebox.
