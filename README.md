@@ -3,6 +3,8 @@ This is a collection of recipes and mods that I've inflicted on gleebox.  Keep i
 
 Please note that some of these are not my work.  Some are from unknown sources (some from the original browser extension).  I will attempt to give credit where possible.
 
+Also please note that these examples are intended to be manually added to your current Gleebox instance.  You cannot download them and drop them in any folder.  You can't get there from here (at least not that way).
+
 ## Concerning the Glee.Browser.openURL function
 When using the Glee.Browser.openURL function, it expects three arguments.
 * Arg 1 = whichever URL you want to call, doesn't have to be http: or https:
