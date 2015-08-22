@@ -19,3 +19,5 @@ In pagecmds.js, add the following:
     };
 
 The above is simply taking advantage of the restart function built into Chrome.  Please note that Google may remove this function without notice or warning.
+
+This command will restart Chrome and reload the pages that were open when you ran the command.
