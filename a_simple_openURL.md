@@ -43,6 +43,6 @@ entries are "0", "1", "true", or "false" (without the quotes).
 * last line = "Glee.empty()" or "Glee.close()" depending on what you want to happen to the text box after pressing "enter" (empty = clear the text, close = close the text box)
 
 Notes:
-* Keep in mind that certain function names are reserved for Gleebox use.
+* Keep in mind that certain function names are reserved for Gleebox use. Recommend searching the code base before using any generic function name.
 * Be sure to research the Gleebox github and other sources when trying to troubleshoot a problem in Gleebox.  More than likely, others have had your issue and have solved it. (Hint: the github URL is: https://github.com/glee/glee/issues/)
 
