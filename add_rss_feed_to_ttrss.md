@@ -15,7 +15,7 @@ In pagecmds.js, add the following:
 
     Glee.getRSSLink = function() {
     Glee.Browser.openURL('http://192.168.2.240/tt-rss/public.php?op=subscribe&feed_url='+encodeURIComponent(location.href),true,true);
-    Glee.empty();
+    Glee.close();
     };
 
 where:
