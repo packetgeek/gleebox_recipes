@@ -2,6 +2,8 @@
 
 Following creates a Gleebox command that allows you to restart Chome.  This is useful when you're doing horrible things to your Gleebox configuration and need to restart Chrome so that your changes are loaded.
 
+Note: in recent versions of Chrome, this does not work as Google prevents calling this from a script.  It is retained here for historical purposes.
+
 In glee.js, add the following:
 
     {
