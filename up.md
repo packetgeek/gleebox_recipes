@@ -5,8 +5,8 @@ Following causes the browser to navigate to the next higher level in the URL.
 In glee.js, add the following entry:
 
   {
-    name: 'top',
-    method: 'top',
+    name: 'up',
+    method: 'up',
     description: 'navigate up one level',
     statusText: 'opening page...'
   },
