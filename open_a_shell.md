@@ -1,4 +1,4 @@
-# Show a man page
+# open a shell
 
 Following is another of the "dangerous" recipes.  Take care if you implement this recipe.  It is assumed that you are able to properly configure sudo (via visudo) and that you have Apache listening only on the "lo" interface.
 
