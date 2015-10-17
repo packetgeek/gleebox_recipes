@@ -1,8 +1,8 @@
 # Enable and disable the browser proxy
 
-Following assumes that you know how to configure sudo using visudo and have Apache configured on your workstation such that it only listens on the "lo" interface. This is useful when working with the Burp Suite.  This is known to work on various flavors of Kali and Ubuntu.
-
 Note: this is one of those actions which falls into the "dangerous" category.
+
+Following assumes that you know how to configure sudo using visudo and have Apache configured on your workstation such that it only listens on the "lo" interface. This is useful when working with the Burp Suite.  This is known to work on various flavors of Kali and Ubuntu.
 
 In glee.js, add the following entry:
 
