@@ -17,3 +17,4 @@ In pagecmds.js, add the following:
     window.location=document.location.protocol+"//"+document.location.host;
   }
 
+Adapted from: https://dl.dropboxusercontent.com/s/fzhncs9bt9stme6/myquix.txt
