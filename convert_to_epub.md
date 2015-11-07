@@ -1,6 +1,6 @@
 # Show a man page
 
-Following converts the current page to an epub, using dotepub (https://dotepub.com/).
+Following converts the current page to an epub, using dotepub (https://dotepub.com/).  Following is basically a re-use of the code tied to their browser button.
 
 In glee.js, add the following entry:
 
