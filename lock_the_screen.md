@@ -31,7 +31,7 @@ In /usr/lib/cgi-bin, create a script called lockscreen.cgi and have it contain t
     print "</script>";
     print "</head><body onload='killself();self.focus()'>";
         
-    system("sudo -Hu tim /bin/bash -c 'export DISPLAY=:0 && \
+    system("sudo -Hu YOURUSER /bin/bash -c 'export DISPLAY=:0 && \
       /usr/bin/mate-screensaver-command -l'");
         
     print "</body></html>";
