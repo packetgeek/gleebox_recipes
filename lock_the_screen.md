@@ -36,4 +36,4 @@ In /usr/lib/cgi-bin, create a script called lockscreen.cgi and have it contain t
         
     print "</body></html>";
 
-Note: above assumes that you have Apache properly installed and configured such that it only listens on 127.0.0.1.
+Note: above assumes that you have Apache properly installed and configured so that it only listens on 127.0.0.1.
