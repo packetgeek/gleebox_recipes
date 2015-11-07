@@ -4,16 +4,16 @@ Following converts the current page to an epub, using dotepub (https://dotepub.c
 
 In glee.js, add the following entry:
 
-  {
+    {
     name: 'epub',
     method: 'epub',
     description: 'convert current page to epub',
     statusText: 'converting...'
-  },
+    },
 
 In pagecmds.js, add the following:
 
-  Glee.epub = function() {
+    Glee.epub = function() {
     try{
       var d=document,w=window;
       if(!d.body||d.body.innerHTML=='')throw(0);
@@ -35,7 +35,7 @@ In pagecmds.js, add the following:
       w.alert('The page has no content or it is not fully loaded. Please, wait till the page is loaded.');
     }
     Glee.close();
-  };
+    };
 
 Note: I don't use this one 'cause the utility doesn't recognize carriage returns (i.e., for some pages, the output tends to be mashed together). I prefer the output from Wallabag.
 
